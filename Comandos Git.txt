@@ -1,0 +1,63 @@
+Comandos Git:
+
+pwd (Donde estoy posicionado!)
+
+clear (Limpiar Pantalla!)
+
+ls (Listar!)
+
+ls -l (Flag o Bandera! Listar Detallada!)
+
+ls -al (Archivos Ocultos!)
+
+cd Docuements (Por Ejemplo para entrar a la Carpeta Documents!)
+
+mkdir tester (Crear un Directorio llamado Tester!)
+
+touch comandos.txt (Crear un Documento .TXT!)
+
+nano comandos.txt (Para escribir en comandos.txt)
+	crtl + O = Guardar
+	crtl + x = Salir
+
+cat comandos.txt (mostrar contenido!)
+
+rmdir Tester (Borrar Carpeta Tester)
+
+rmdir -- (Informacion sobre el comando que queres usar!)
+
+rm (Borrar archivos!) 
+
+git init (Inicializar el Repositorio!)
+
+git add (Para pasar un archivo especifico a Staging!)
+
+git add . (Para pasar todo los archivos que haya hecho un cambio a Staging!)
+
+git commit (Guardar en el Repositorio)
+
+git commit -m " " (Guardar en el Repositorio con Comentario!)
+
+git log (Ver Todos los Commit que hay)
+
+git log -p (Ver las diferencia y cambios re detallados entre los commits)
+
+git show (Ver diferencias entre los commit)
+
+git checkout (Ver un commit en especifico)
+
+git reset --soft (Volver a un coomit anterior sin borrar lo que se haya hecho en la Seccion de Preparacion)
+
+git reset --hard (Volver a un coomit anterior borrando todo lo que se haya hecho en la Seccion de Preparacion)
+
+git commit --amend (Agregar los cambios al ultimo commit)
+
+git branch nombre (Crear una Nueva Rama "nombre")
+
+git checkout nombre (Trabajar en la Rama "nombre")
+
+--------- RAMAS --------------
+
+
+
+.
